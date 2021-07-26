@@ -1,6 +1,6 @@
 
 
-### Hello and welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+### Hello and Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
 ![Header](https://github.com/sslovyan/sslovyan/blob/f9180d94e622d592996aa6288069a5882120c3c1/GitHub%20Header.png)
 
