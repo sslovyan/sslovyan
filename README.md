@@ -1,6 +1,6 @@
 
 
-### 👋 Hello and welcome to my public repository!
+### 👋  Hello and welcome to my public repository!
 
 ![Header](https://github.com/sslovyan/sslovyan/blob/f9180d94e622d592996aa6288069a5882120c3c1/GitHub%20Header.png)
 
