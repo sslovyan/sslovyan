@@ -1,6 +1,8 @@
-### Hello 👋
+👋
 
-[![Header](https://github.com/sslovyan/sslovyan/blob/f9180d94e622d592996aa6288069a5882120c3c1/GitHub%20Header.png)]
+### Hello and welcome to my public repository!
+
+![Header](https://github.com/sslovyan/sslovyan/blob/f9180d94e622d592996aa6288069a5882120c3c1/GitHub%20Header.png)
 
 <!--
 **sslovyan/sslovyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
