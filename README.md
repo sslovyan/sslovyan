@@ -1,6 +1,6 @@
 ### Hello 👋
 
-[![Header](https://raw.githubusercontent.com/sslovyan/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/sslovyan/<OWNER>/<OWNER>/GitHub Header.png "Header")](https://some-url.dev/)
 
 <!--
 **sslovyan/sslovyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
