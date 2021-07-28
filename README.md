@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Lean Six Sigma Black Belt project (using Python).
 - 🌱 I’m currently learning more advanced features of Tableau Desktop and Tableau Server. <br>
-<br> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> <img src="https://img.icons8.com/material-rounded/48/000000/send-mass-email.png"/>
+<br> [<img src="https://img.icons8.com/color/48/000000/linkedin.png">](https://www.linkedin.com/in/steven-slovyan/) [<img src="https://img.icons8.com/material-rounded/48/000000/send-mass-email.png"/>](mailto:sslovyan@ucsd.edu)
 
 <a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a> <br>
 <a href="https://icons8.com/icon/93477/send-email">Send Email icon by Icons8</a>
