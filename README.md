@@ -6,10 +6,7 @@
 
 - 🔭 I’m currently working on a Lean Six Sigma Black Belt project (using Python).
 - 🌱 I’m currently learning more advanced features of Tableau Desktop and Tableau Server. <br>
-<br> [<img src="https://img.icons8.com/color/48/000000/linkedin.png">](https://www.linkedin.com/in/steven-slovyan/) [<img src="https://github.com/sslovyan/sslovyan/blob/9d2ecd605711f6d8457f4d198df99f0a19c7d423/emailIcon.png"/>](mailto:sslovyan@ucsd.edu)
-
-<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a> <br>
-<a href="https://icons8.com/icon/93477/send-email">Send Email icon by Icons8</a>
+<br> [<img src="https://github.com/sslovyan/sslovyan/blob/f62e8182a5217a0b483da7777dbcc06edd0bee4a/LinkedIn.png">](https://www.linkedin.com/in/steven-slovyan/) [<img src="https://github.com/sslovyan/sslovyan/blob/9d2ecd605711f6d8457f4d198df99f0a19c7d423/emailIcon.png"/>](mailto:sslovyan@ucsd.edu)
 
 <!--
 **sslovyan/sslovyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
