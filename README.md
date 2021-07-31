@@ -4,7 +4,7 @@
 
 ![Header](https://github.com/sslovyan/sslovyan/blob/f9180d94e622d592996aa6288069a5882120c3c1/GitHub%20Header.png)
 
-My [project portfolio](https://github.com/sslovyan/Personal-Projects) is currently under construction.
+My [project portfolio](https://github.com/sslovyan/Personal-Projects) is under construction.
 
 - 🔭 I’m currently working on a Lean Six Sigma Black Belt project (using Python).
 - 🌱 I’m currently learning more advanced features of Tableau Desktop and Tableau Server. <br><br>
